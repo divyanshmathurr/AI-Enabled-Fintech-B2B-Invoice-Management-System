@@ -1,0 +1,35 @@
+.MuiDataGrid-root {
+  color: white !important;
+}
+#table {
+  background-color: #2a3e4c;
+  color: white !important;
+}
+.css-204u17-MuiDataGrid-main {
+  color: white !important
+    ;
+}
+.css-1pe4mpk-MuiButtonBase-root-MuiIconButton-root,
+.css-1f0jaut-MuiButtonBase-root-MuiCheckbox-root,
+.css-zylse7-MuiButtonBase-root-MuiIconButton-root.Mui-disabled {
+  color: white !important;
+}
+div {
+  color: white;
+}
+
+/*     
+    .MuiDataGrid-columnHeaders, .css-f3jnds-MuiDataGrid-columnHeaders
+    {
+        min-height: 10vh !important;
+        max-height: 10vh !important;
+    } */
+
+.MuiDataGrid-colCellTitle {
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+.MuiDataGrid-cellCenter {
+  justify-content: center;
+}
